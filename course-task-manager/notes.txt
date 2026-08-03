@@ -1,0 +1,4 @@
+Ideas for later:
+- Add a function for creating a task.
+- Add a priority field.
+- Add tests.
